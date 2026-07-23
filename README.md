@@ -21,6 +21,6 @@ Building **Cursor tools** and **Agent Skills** — small utilities that make AI 
 - GitHub: [lsh2253823857](https://github.com/lsh2253823857)
 - If a tool saves you time, a star helps others find it.
 
-\\	ext
+```text
 Tools > Tutorials. Ship something you open every day.
-\
+```
