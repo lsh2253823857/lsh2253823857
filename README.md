@@ -1,4 +1,4 @@
-﻿# Hi, I'm Lis 👋
+# Hi, I'm Lis
 
 Building **Cursor tools** and **Agent Skills** — small utilities that make AI coding and prompt workflows actually usable day to day.
 
@@ -19,8 +19,8 @@ Building **Cursor tools** and **Agent Skills** — small utilities that make AI 
 ### Quick links
 
 - GitHub: [lsh2253823857](https://github.com/lsh2253823857)
-- If a tool saves you time, a ⭐ helps others find it.
+- If a tool saves you time, a star helps others find it.
 
-```text
+\\	ext
 Tools > Tutorials. Ship something you open every day.
-```
+\
